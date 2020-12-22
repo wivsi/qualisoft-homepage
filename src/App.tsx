@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Body from './compontents/Body/Body';
 import Header from './compontents/Header/Header';
+import './App.scss';
 
 function App() {
 	return (
@@ -9,7 +10,7 @@ function App() {
 			<div className='App'>
 				<Header>
 					<ul>
-						<li>tester</li>
+						<li>Header</li>
 					</ul>
 				</Header>
 				<Body />

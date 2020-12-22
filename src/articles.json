@@ -2,11 +2,36 @@
 	{
 		"title": "Hello World",
 		"slug": "hello-world",
-		"content": "This is the Hello World post"
+		"author": "William V. Sivalingam",
+		"content": "This is the Hello World post",
+		"date": "2020-12-19T18:25:43.511Z"
 	},
 	{
 		"title": "React Lesson 1",
 		"slug": "react-lesson-1",
-		"content": "The first lesson of React."
+		"author": "William V. Sivalingam",
+		"content": "The first lesson of React.",
+		"date": "2020-04-18T18:32:43.511Z"
+	},
+	{
+		"title": "Love React",
+		"slug": "love-react",
+		"author": "William V. Sivalingam",
+		"content": "The first lesson of React.",
+		"date": "2020-04-18T18:32:43.511Z"
+	},
+	{
+		"title": "Typescript frustration",
+		"slug": "typescript-frustration",
+		"author": "William V. Sivalingam",
+		"content": "The first lesson of React.",
+		"date": "2020-04-18T18:32:43.511Z"
+	},
+	{
+		"title": "Unknown",
+		"slug": "unknown",
+		"author": "William V. Sivalingam",
+		"content": "The first lesson of React.",
+		"date": "2020-04-18T18:32:43.511Z"
 	}
 ]
