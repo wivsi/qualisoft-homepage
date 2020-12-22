@@ -10,4 +10,11 @@ a {
 }
 .App {
 	margin: 0 3%;
+
+	.logo {
+		display: inline-block;
+		font-weight: bolder;
+		font-size: 2rem;
+		margin-top: 2%;
+	}
 }

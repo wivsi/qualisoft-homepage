@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import articleData from './../../articles.json';
+import styles from './Post.module.scss';
 
 interface ParamTypes {
 	slug: string;
@@ -8,18 +9,19 @@ interface ParamTypes {
 
 const Post: React.FC = () => {
 	let { slug } = useParams<ParamTypes>();
-	console.log(slug);
 	let post = findPost(slug);
 
 	return (
-		<div className='post-content-view'>
-			<h1 className='title'>{post?.title}</h1>
-			<p>{post?.content}</p>
+		<div className={styles.post_container}>
+			<h1 className={styles.post_title}>{post?.title}</h1>
+			<p>{post?.author}</p>
+			<p>{post?.date}</p>
+			<p className={styles.post_content}>{post?.content}</p>
 		</div>
 	);
 };
 
-const findPost = (slug: any) => {
+const findPost = (slug: string) => {
 	return articleData.find((a) => a.slug === slug);
 };
 
