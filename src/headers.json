@@ -1,0 +1,37 @@
+[
+	{
+		"title": "World",
+		"submenu": null
+	},
+	{
+		"title": "Politics",
+		"submenu": [
+			{
+				"title": "US",
+				"submenu": [
+					{
+						"title": "Election",
+						"submenu": null
+					},
+					{
+						"title": "Lorem",
+						"submenu": null
+					}
+				]
+			},
+			{
+				"title": "Europe",
+				"submenu": [
+					{
+						"title": "Election",
+						"submenu": null
+					},
+					{
+						"title": "Corona",
+						"submenu": null
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,54 @@
+{
+	"articles": [
+		{
+			"world": [
+				{
+					"title": "Testing 1",
+					"author": "William V. Sivalingam",
+					"text": "sdf33993 klfjskldfjslkdfjslkfj",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-1"
+				},
+				{
+					"title": "Testing 2",
+					"author": "William V. Sivalingam",
+					"text": "Lorsdfkjsdlkf lkjdsf ksdjf sllkfj",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-2"
+				},
+				{
+					"title": "Testing 3",
+					"author": "William V. Sivalingam",
+					"text": "sslellef  fsddfjslkfj",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-3"
+				}
+			]
+		},
+		{
+			"politics": [
+				{
+					"title": "Testing 1.1",
+					"author": "William V. Sivalingam",
+					"text": "Descripomn sdfkjd flkdsjf klsdfj lsf ",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-1-1"
+				},
+				{
+					"title": "Testing 2.1",
+					"author": "William V. Sivalingam",
+					"text": "ssuuuuueye eelwkjrw lwølwødiii j",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-2-1"
+				},
+				{
+					"title": "Testing 4.3",
+					"author": "William V. Sivalingam",
+					"text": "sdfk dsklfj lsdkfjklsd fkdfjslkfj",
+					"date": "2012-04-23T18:25:43.511Z",
+					"slug": "testing-4-3"
+				}
+			]
+		}
+	]
+}
